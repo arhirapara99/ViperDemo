@@ -1,4 +1,4 @@
-- [How to run app](#runapp)
+## Component Libraries
 
 # Step 1: open xcworkspace 
 # Step 2: select sample app in target
